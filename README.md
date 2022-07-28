@@ -1,2 +1,4 @@
-# belajar-github
-ini repository belajar github
+Nama : amelia adisti
+Kelas : XI 
+Jurusan : TKJ
+Motivasi : mengisi kegabutan
